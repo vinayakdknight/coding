@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "Print function on Python"
-date:   2019-03-23 21:03:36 +0530
+date:   2020-08-04
 categories: python
+permalink: /:categories/:title
 ---
 Hey! Welcome to your first lesson on python at Vinayak D Knight - Coding
 In this first lesson you will be writing the code that all the greatest developers have written in their first lesson. The Hello World code.

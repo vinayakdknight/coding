@@ -15,4 +15,4 @@ It is said that if you can write "Hello World", you can even change the world.
 
 Follow me on [Instagram][instagram]
 
-[instagram]:https://instagram.com/vinayakdknight
+[instagram] : https://instagram.com/vinayakdknight

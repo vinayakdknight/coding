@@ -13,6 +13,4 @@ print("Hello World")
 ```
 It is said that if you can write "Hello World", you can even change the world.
 
-Follow me on [Instagram][instagram]
-
-[instagram] : https://instagram.com/vinayakdknight
+Follow me on [Instagram](https://instagram.com/vinayakdknight)

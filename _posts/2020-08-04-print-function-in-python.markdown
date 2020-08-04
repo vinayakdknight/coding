@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Print function on Python"
-date:   2020-08-04
+date:   2020-08-04 15:53:00 +5:30
 categories: python
 permalink: /:categories/:title
 ---
